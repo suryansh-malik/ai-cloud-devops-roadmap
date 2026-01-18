@@ -155,6 +155,34 @@ At Google, Amazon, and Microsoft, interviewers don't ask *"What is Kubernetes?"*
 
 ---
 
+## Interview Questions by Company
+
+Prepare for your target company with questions organized by company type.
+
+### Product-Based Companies (FAANG+)
+
+| Company | Interview Focus | Questions |
+|---------|-----------------|-----------|
+| [Google](companies/product-based/google.md) | DSA, System Design, Googleyness | Kubernetes, GCP, Terraform |
+| [Amazon](companies/product-based/amazon.md) | Leadership Principles, System Design | AWS, ECS, DynamoDB |
+| [Microsoft](companies/product-based/microsoft.md) | DSA, System Design, Azure | Coming soon |
+| [Meta](companies/product-based/meta.md) | DSA, System Design, Scale | Coming soon |
+| [Netflix](companies/product-based/netflix.md) | System Design, Culture | Coming soon |
+
+### Service-Based Companies (Mass Hiring)
+
+| Company | Interview Pattern | Questions |
+|---------|-------------------|-----------|
+| [TCS](companies/service-based/tcs.md) | NQT + Technical + HR | Java, Python, SQL, Aptitude |
+| [Infosys](companies/service-based/infosys.md) | Similar to TCS | Java, Python, SQL |
+| [Wipro](companies/service-based/wipro.md) | Similar to TCS | Java, Python, SQL |
+| [Cognizant](companies/service-based/cognizant.md) | GenC Assessment | Java, Cloud, DevOps |
+| [Accenture](companies/service-based/accenture.md) | Cognitive + Technical | Cloud, Consulting |
+
+[View all companies →](companies/)
+
+---
+
 ## Learning Roadmaps
 
 Visual guides to go from beginner to job-ready.
