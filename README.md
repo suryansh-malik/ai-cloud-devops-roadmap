@@ -47,15 +47,15 @@ At Google, Amazon, and Microsoft, interviewers don't ask *"What is Kubernetes?"*
 
 ## What's Inside
 
-| Category | Technologies | Questions |
-|----------|-------------|-----------|
-| **Cloud Platforms** | AWS, Azure, GCP | 36 |
-| **DevOps & CI/CD** | Docker, Kubernetes, Terraform, Jenkins, GitHub Actions | 58 |
-| **AI & Machine Learning** | TensorFlow, PyTorch, Hugging Face | 36 |
-| **Programming** | Python, JavaScript, TypeScript, Java, Go, Node.js | 72 |
-| **Databases** | PostgreSQL, MongoDB, Redis | 36 |
-| **Frontend** | React, Next.js, Angular, Vue | 81 |
-| **Total** | **25 Technologies** | **320+** |
+| Section | What's Inside | Status |
+|---------|---------------|--------|
+| **[Interview Questions](#interview-questions)** | 320+ questions across 25 technologies | ✅ Available |
+| **[Learning Roadmaps](#learning-roadmaps)** | 4 career paths with timelines | ✅ Available |
+| **[Company Guides](#interview-questions-by-company)** | Google, Amazon, TCS, Infosys + more | ✅ Available |
+| **[Cheatsheets](cheatsheets/)** | Quick reference guides | 🔜 Coming Soon |
+| **[Projects](projects/)** | 15 hands-on portfolio projects | 🔜 Coming Soon |
+| **[AI Trends](ai-trends/)** | Weekly AI news & analysis | 🔜 Coming Soon |
+| **[Career Resources](career/)** | Salaries, resumes, job search | 🔜 Coming Soon |
 
 ---
 
@@ -322,49 +322,31 @@ Month 6:   Specialization (AI/ML, Security, SRE)
 ```
 ai-cloud-devops-roadmap/
 ├── README.md
-├── interview-questions/
-│   ├── cloud/
-│   │   ├── aws.md
-│   │   ├── azure.md
-│   │   └── gcp.md
-│   ├── devops/
-│   │   ├── docker.md
-│   │   ├── kubernetes.md
-│   │   ├── terraform.md
-│   │   ├── jenkins.md
-│   │   └── github-actions.md
-│   ├── ai-ml/
-│   │   ├── tensorflow.md
-│   │   ├── pytorch.md
-│   │   └── hugging-face.md
-│   ├── programming/
-│   │   ├── python.md
-│   │   ├── javascript.md
-│   │   ├── typescript.md
-│   │   ├── java.md
-│   │   ├── go.md
-│   │   ├── nodejs.md
-│   │   ├── react.md
-│   │   ├── nextjs.md
-│   │   ├── angular.md
-│   │   └── vue.md
-│   └── databases/
-│       ├── postgresql.md
-│       ├── mongodb.md
-│       └── redis.md
-├── roadmaps/
-│   ├── cloud-engineer.md
+├── interview-questions/          # ✅ 320+ questions
+│   ├── cloud/                    #    AWS, Azure, GCP
+│   ├── devops/                   #    Docker, K8s, Terraform, CI/CD
+│   ├── ai-ml/                    #    TensorFlow, PyTorch, Hugging Face
+│   ├── programming/              #    Python, JS, Java, Go, React, etc.
+│   └── databases/                #    PostgreSQL, MongoDB, Redis
+├── companies/                    # ✅ Company-specific guides
+│   ├── product-based/            #    Google, Amazon, Microsoft, etc.
+│   └── service-based/            #    TCS, Infosys, Wipro, etc.
+├── roadmaps/                     # ✅ 4 career paths
 │   ├── devops-engineer.md
+│   ├── cloud-engineer.md
 │   ├── ai-ml-engineer.md
 │   └── fullstack-developer.md
-├── resources/
-│   ├── books.md
-│   ├── courses.md
-│   ├── youtube-channels.md
-│   └── communities.md
+├── cheatsheets/                  # 🔜 Coming soon
+├── projects/                     # 🔜 Coming soon
+│   ├── beginner/
+│   ├── intermediate/
+│   └── advanced/
+├── ai-trends/                    # 🔜 Coming soon
+│   └── weekly-updates/
+├── career/                       # 🔜 Coming soon
+│   └── resume-templates/
+├── resources/                    # ✅ Books, communities
 └── assets/
-    ├── banner.png
-    └── deployu-offer.svg
 ```
 
 ---
